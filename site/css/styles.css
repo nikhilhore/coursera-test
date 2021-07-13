@@ -1,0 +1,14 @@
+body {
+  margin:2%;
+}
+mark {
+  background-color:tomato;
+}
+h1 {
+  color:red;
+  font-size:45px;
+  text-align:center;
+}
+pre {
+  background-color:powderblue;
+}
